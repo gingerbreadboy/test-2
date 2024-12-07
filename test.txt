@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hi
-=======
 hello
->>>>>>> my-branch
